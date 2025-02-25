@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+./data/bigrams.txt
+./data/fiverams.txt
+.DS_Store
